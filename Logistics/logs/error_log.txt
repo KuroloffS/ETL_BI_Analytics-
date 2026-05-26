@@ -1,0 +1,1 @@
+[ERROR] 27.11.2025 13:17:57,82 - Error during execution of C2M_xlsx_search_asyncio.py 

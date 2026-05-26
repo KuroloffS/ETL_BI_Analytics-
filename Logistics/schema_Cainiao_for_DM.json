@@ -1,0 +1,102 @@
+[
+    {
+        "originalName": "№",
+        "db_name": "No",
+        "datatype": "int"
+    },
+    {
+        "originalName": "Batch No",
+        "db_name": "Batch_No",
+        "datatype": "varchar(50)"
+    },
+    {
+        "originalName": "Outbound carton",
+        "db_name": "Outbound_carton",
+        "datatype": "int"
+    },
+    {
+        "originalName": "Outbound weight (kg)",
+        "db_name": "Outbound_weight_kg",
+        "datatype": "int"
+    },
+    {
+        "originalName": "Outbound date",
+        "db_name": "Outbound_date",
+        "datatype": "date"
+    },
+    {
+        "originalName": "Booking/AWB NO",
+        "db_name": "Booking_AWB_NO",
+        "datatype": "varchar(50)"
+    },
+    {
+        "originalName": "Flight No.:",
+        "db_name": "Flight_No",
+        "datatype": "varchar(50)"
+    },
+    {
+        "originalName": "ETD",
+        "db_name": "ETD",
+        "datatype": "date"
+    },
+    {
+        "originalName": "Комментарии",
+        "db_name": "Комментарии",
+        "datatype": "text"
+    },
+    {
+        "originalName": "ETA",
+        "db_name": "ETA",
+        "datatype": "date"
+    },
+    {
+        "originalName": "ATD",
+        "db_name": "ATD",
+        "datatype": "date"
+    },
+    {
+        "originalName": "ATA",
+        "db_name": "ATA",
+        "datatype": "date"
+    },
+    {
+        "originalName": "ATA_ext",
+        "db_name": "ATA_ext",
+        "datatype": "date"
+    },
+    {
+        "originalName": "Дней до прибытия из Silk Way до Ташкента",
+        "db_name": "days_before_Tashkent",
+        "datatype": "varchar(50)"
+    },
+    {
+        "originalName": "Дней до прибытия из Silk Way до ХАБа",
+        "db_name": "days_before_HAB",
+        "datatype": "varchar(50)"
+    },
+    {
+        "originalName": "Поступления на склад",
+        "db_name": "arrivel_to_warehouse",
+        "datatype": "varchar(50)"
+    },
+    {
+        "originalName": "wh_ext",
+        "db_name": "wh_ext",
+        "datatype": "varchar(50)"
+    },
+    {
+        "originalName": "POD",
+        "db_name": "POD",
+        "datatype": "varchar(50)"
+    },
+    {
+        "originalName": "VIA",
+        "db_name": "VIA",
+        "datatype": "varchar(50)"
+    },
+    {
+        "originalName": "Remarks",
+        "db_name": "Remarks",
+        "datatype": "varchar(250)"
+    }
+]

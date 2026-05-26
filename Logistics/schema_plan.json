@@ -1,0 +1,7 @@
+[
+    {"db_name": "item",    "datatype": "VATCHAR(50)"},
+    {"db_name": "country", "datatype": "VATCHAR(50)"},
+    {"db_name": "service", "datatype": "VATCHAR(50)"},
+    {"db_name": "period",  "datatype": "DATE"},
+    {"db_name": "plan",    "datatype": "FLOAT"} 
+]

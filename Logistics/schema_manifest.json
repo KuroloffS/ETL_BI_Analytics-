@@ -1,0 +1,15 @@
+[
+    { "db_name": "itemid",                "datatype": "VARCHAR(50)"},
+    { "db_name": "masterno",              "datatype": "VARCHAR(50)"},
+    { "db_name": "cartonid",              "datatype": "VARCHAR(50)"},
+    { "db_name": "ordercode",              "datatype": "VARCHAR(50)"},
+    { "db_name": "weight_g",              "datatype": "BIGINT"},
+    { "db_name": "country",               "datatype": "VARCHAR(50)"},
+    { "db_name": "service",               "datatype": "VARCHAR(50)"},
+    { "db_name": "danger_type",           "datatype": "VARCHAR(50)"},
+    { "db_name": "dt_package",            "datatype": "DATE"},
+    { "db_name": "package_num",           "datatype": "VARCHAR(50)"},
+    { "db_name": "dtflow",                "datatype": "TIMESTAMP WITHOUT TIME ZONE"},
+    { "db_name": "source_file_name",      "datatype": "TEXT"},
+    { "db_name": "id_registry",           "datatype": "BIGINT"}
+]

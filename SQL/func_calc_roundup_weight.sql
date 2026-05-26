@@ -1,0 +1,5 @@
+CREATE OR REPLACE FUNCTION calc_roundup_weight(weight_g NUMERIC) RETURNS NUMERIC AS $$
+BEGIN
+    RETURN ROUND(CAST(CEIL(weight_g / 10.0) AS NUMERIC), 0) / 100;
+END;
+$$ LANGUAGE plpgsql;

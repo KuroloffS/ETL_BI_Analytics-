@@ -1,0 +1,11 @@
+[
+    {"originalName": "itemid",              "db_name": "itemid",    "datatype": "str"},
+    {"originalName": "cartonid",            "db_name": "cartonid",  "datatype": "str"},
+    {"originalName": "ordercode",           "db_name": "ordercode", "datatype": "str"},
+    {"originalName": "masterno",            "db_name": "masterno",  "datatype": "str"},
+    {"originalName": "PackageWeight(g)",    "db_name": "weight_g",  "datatype": "int64"},
+    {"originalName": "ProductWeight(g)",    "db_name": "weight_g",  "datatype": "int64"},
+    {"originalName": "consigneecountry",    "db_name": "country",   "datatype": "str"},
+    {"originalName": "service",             "db_name": "service",   "datatype": "str"},
+    {"originalName": "danger_type",         "db_name": "danger_type", "datatype": "str"}
+]

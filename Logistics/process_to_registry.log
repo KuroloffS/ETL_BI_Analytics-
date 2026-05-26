@@ -1,0 +1,4 @@
+2025-04-18 23:17:53,629 - INFO - Async process started...
+2025-04-18 23:17:53,629 - DEBUG - Using proactor: IocpProactor
+2025-04-18 23:17:54,610 - INFO - No new valid files to insert.
+2025-04-18 23:17:54,610 - INFO - Process completed.
